@@ -1,0 +1,47 @@
+
+.text-center{
+    text-align: center;
+    font-size: 40px;
+    color:rgb(104, 37, 106)
+}
+
+.button{
+    padding:30px;
+    margin: 0 3px;
+    border: 7px solid rgb(133, 232, 68);
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 25px;
+    border-radius: 20px;
+
+
+}
+
+.flex{
+    display:flex;
+}
+.flex-cols{
+    flex-direction:column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.margin-auto{
+    margin: 20px ;
+
+}
+
+.row{
+    margin: 12px; 
+}
+
+.row input{
+    padding: 15px 39px;
+    border:solid 5px rgb(22, 4, 40);
+    border-radius: 8px;
+    font-size: 25px;
+    background-color: rgb(239, 234, 234);
+    color:rgb(2, 2, 33)
+}
